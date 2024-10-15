@@ -16,7 +16,7 @@ Here are the hosted links for my projects:
 
 ## Project 4: Stopwatch
 - **Description:** A simple stopwatch application.
-- **Hosted Link:** [View Stopwatch](https://yourusername.github.io/repo-name/stopwatch)
+- **Hosted Link:** [View Stopwatch](https://saraqadri91.github.io/stop-watch/)
 
 ## Project 5: Weather App
 - **Description:** A interactive weather application.
